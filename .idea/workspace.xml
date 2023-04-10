@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1c07ae0-bf48-47f9-815b-c60b6a5a3149" name="Changes" comment="測試" />
+    <list default="true" id="d1c07ae0-bf48-47f9-815b-c60b6a5a3149" name="Changes" comment="02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg-masthead.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/bg-masthead.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/fullsize/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/fullsize/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +38,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/Ct0120.github.io/assets/img/portfolio/thumbnails",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\Ct0120.github.io\assets\img\portfolio\thumbnails" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\Ct0120.github.io\assets\img\portfolio\fullsize" />
+      <recent name="C:\Users\user\WebstormProjects\Ct0120.github.io\assets\img" />
       <recent name="C:\Users\user\WebstormProjects\Ct0120.github.io" />
     </key>
   </component>
@@ -46,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681094326824</updated>
       <workItem from="1681094328183" duration="1387000" />
+      <workItem from="1681095736599" duration="4754000" />
     </task>
     <task id="LOCAL-00001" summary="測試">
       <created>1681095319553</created>
@@ -54,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681095319553</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="01">
+      <created>1681095758959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681095758959</updated>
+    </task>
+    <task id="LOCAL-00003" summary="02">
+      <created>1681095994256</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681095994256</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +103,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="測試" />
-    <option name="LAST_COMMIT_MESSAGE" value="測試" />
+    <MESSAGE value="01" />
+    <MESSAGE value="02" />
+    <option name="LAST_COMMIT_MESSAGE" value="02" />
   </component>
 </project>
