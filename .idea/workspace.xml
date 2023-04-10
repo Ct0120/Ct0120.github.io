@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1c07ae0-bf48-47f9-815b-c60b6a5a3149" name="Changes" comment="02">
+    <list default="true" id="d1c07ae0-bf48-47f9-815b-c60b6a5a3149" name="Changes" comment="測試02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg-masthead.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/bg-masthead.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/fullsize/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/fullsize/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/fullsize/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/fullsize/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/fullsize/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/fullsize/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681094326824</updated>
       <workItem from="1681094328183" duration="1387000" />
-      <workItem from="1681095736599" duration="4754000" />
+      <workItem from="1681095736599" duration="6693000" />
     </task>
     <task id="LOCAL-00001" summary="測試">
       <created>1681095319553</created>
@@ -84,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681095994256</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="測試02">
+      <created>1681101019803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681101019803</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +114,7 @@
     <MESSAGE value="測試" />
     <MESSAGE value="01" />
     <MESSAGE value="02" />
-    <option name="LAST_COMMIT_MESSAGE" value="02" />
+    <MESSAGE value="測試02" />
+    <option name="LAST_COMMIT_MESSAGE" value="測試02" />
   </component>
 </project>
